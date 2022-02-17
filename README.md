@@ -17,7 +17,7 @@ Baixe e instale o Python v3.10+ pelo site: [https://www.python.org/downloads/](h
 
 Se você baixar pelo site é importante marcar a opção para adicionar o python ao PATH:
 
-![alt text](https://github.com/sCryptoHelp/spacecrypto-bot/blob/main/readme-doc/01.png?raw=true)
+![alt text](https://github.com/lbrsilva/spacecrypto-bot/blob/main/readme-doc/01.png?raw=true)
 
 Selecione a opção "Customize installation"
 
@@ -89,7 +89,7 @@ pip install --upgrade pip
 
 - Abra a pasta salva no C:/spacecrypto-bot e execute o arquivo:  _Iniciar.bot_ 
 
-![alt text](https://github.com/sCryptoHelp/spacecrypto-bot/blob/main/readme-doc/IniciarBat.PNG?raw=true)
+![alt text](https://github.com/lbrsilva/spacecrypto-bot/blob/main/readme-doc/IniciarBat.PNG?raw=true)
 
 - Minimize a tela do bot e deixe a tela do navegador com o Space Crypto aberta;
 
@@ -123,7 +123,7 @@ Algumas configurações precisam  ser alteradas no arquivo "config.yaml".
 
 - Para editar o config.yaml, abra em algum editor de texto
 
-![alt text](https://github.com/sCryptoHelp/spacecrypto-bot/blob/main/readme-doc/open-edit-config.PNG?raw=true)
+![alt text](https://github.com/lbrsilva/spacecrypto-bot/blob/main/readme-doc/open-edit-config.PNG?raw=true)
 
 
 ## O que devo configurar no arquivo "config.yaml"?
@@ -145,7 +145,7 @@ Uma dica:
 qtd_send_spaceships
 ```
 
-![alt text](https://github.com/sCryptoHelp/spacecrypto-bot/blob/main/readme-doc/configYaml.png?raw=true)
+![alt text](https://github.com/lbrsilva/spacecrypto-bot/blob/main/readme-doc/configYaml.png?raw=true)
 
 
 Após toda alteração salve o arquivo e reinicie o Bot. 
@@ -159,14 +159,7 @@ Após toda alteração salve o arquivo e reinicie o Bot.
 
 # Gostou do conteúdo, então já sabe o que fazer! 😉🤩
 
-- Wallet Smart Chain: `0xCD1A7A05DC2ee5d0CcB38a4e653e81A4CA78657c`
-- Chave Pix: `8c3b043a-b2c0-44df-a90d-41b3f4294614`
-
-## ▶️ Link Passo a Passo Instalação Auxiliar
-[https://www.youtube.com/watch?v=L1CkRyTmpxM](https://www.youtube.com/watch?v=L1CkRyTmpxM)
-
-## ▶️ Link para Bot em Execução
-[https://youtu.be/M11ubT04vVY](https://youtu.be/M11ubT04vVY)
+- Wallet Smart Chain: `0xf9FFFb40A4f7f41aCE536EB38D3D3bc84eB046bE`
 
 
 ## 📄 Licença
