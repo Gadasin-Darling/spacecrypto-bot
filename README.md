@@ -7,8 +7,6 @@ Um Bot de código aberto, para que qualquer pessoal possa utilizar e colaborar c
 
 - Wallet Smart Chain (BUSD/BNB/BCOIN/SPG): `0xf9FFFb40A4f7f41aCE536EB38D3D3bc84eB046bE`
 
-![alt text](https://github.com/lbrsilva/spacecrypto-bot/blob/main/readme-doc/Pix.png?raw=true)
-
 ## Instalação
 
 Baixe e instale o Python v3.10+ pelo site: [https://www.python.org/downloads/](https://www.python.org/downloads/)
@@ -60,7 +58,7 @@ Navegue até a pasta onde foi salvo o Bot
 Insira o comando: 
 
 ```
-CD /spacecrypto-bot 
+cd spacecrypto-bot 
 ```
 ![alt text](https://github.com/lbrsilva/spacecrypto-bot/blob/main/readme-doc/11.png?raw=true)
 
